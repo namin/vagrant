@@ -6,7 +6,7 @@ Vagrant script setting up a Ubuntu VM to develop CamFlow.
 
 ```
 git clone https://github.com/CamFlow/vagrant.git
-cd ./vagrant/dev-fedora
+cd ./vagrant/dev-ubuntu
 vagrant plugin install vagrant-vbguest
 vagrant up
 ```
